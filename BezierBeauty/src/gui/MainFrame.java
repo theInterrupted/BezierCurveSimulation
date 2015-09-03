@@ -56,7 +56,7 @@ public class MainFrame implements Runnable, MouseListener{
         frame.setContentPane(panel);
         frame.setResizable(false);
         frame.setSize(WIN_WIDTH, WIN_HEIGHT);
-        frame.setLocation(5, 5);
+        frame.setLocation(50, 50);
         frame.setVisible(true);
 	}
 
